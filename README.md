@@ -1,154 +1,139 @@
 
-<!--
-  ZIMO | FiveM Developer
-  GitHub Profile README
--->
+<h1 align="center">👋 Hey, I'm Zimo!</h1>
 
-<div align="center">
+<h3 align="center">
+  💻 FiveM Developer | 🎮 Content Creator | 🚀 Script Creator
+</h3>
 
-# 🔴 ZIMO
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0048CE&center=true&vCenter=true&width=650&lines=Welcome+to+Zimo's+GitHub!;FiveM+Developer;QBCore+%7C+ESX+Developer;Creating+Custom+FiveM+Scripts;Turning+Ideas+Into+Reality!" />
+</p>
 
-### FiveM Developer | Script Creator | Content Creator
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0048CE&height=200&section=header&text=ZIMO&fontSize=75&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Welcome+to+ZIMO's+Profile;FiveM+Script+Developer;QBCore+%7C+ESX+%7C+Standalone;Building+Something+Amazing!" />
-
-<br>
-
-<img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge&logo=rockstargames&logoColor=white" />
-<img src="https://img.shields.io/badge/Script-Creator-black?style=for-the-badge&logo=lua&logoColor=red" />
-<img src="https://img.shields.io/badge/Content-Creator-red?style=for-the-badge&logo=youtube&logoColor=white" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ZIMO-black?style=for-the-badge&logo=github)](https://github.com/zimo1212)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WrxHDBZRw)
-
-</div>
+<p align="center">
+  <a href="https://github.com/zimo1212">
+    <img src="https://img.shields.io/badge/GitHub-Zimo-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://discord.gg/WrxHDBZRw">
+    <img src="https://img.shields.io/badge/Discord-Join%20My%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **ZIMO**, a passionate FiveM Developer and Content Creator.
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I specialize in developing and creating custom resources for FiveM servers. I enjoy building new systems, improving gameplay experiences, and sharing my scripts with the community.
+- 👋 My name is **Zimo**.
+- 💻 I'm a passionate **FiveM Developer**.
+- 🎮 Content Creator on YouTube & Instagram.
+- ⚙️ Specialized in FiveM server development.
+- 🔥 Creating and developing custom scripts.
+- 📦 Sharing my resources with the community on Discord.
+- 🚀 Always learning and building new projects.
 
-- 🔴 FiveM Script Developer.
-- 💻 Developing custom FiveM resources.
-- ⚙️ Working with QBCore, ESX & Standalone.
-- 🎮 Passionate about GTA V Roleplay.
-- 🎥 Creating content on YouTube and Instagram.
-- 🚀 Sharing scripts and resources through Discord.
-- 🛠️ Always learning and developing new ideas.
+<br clear="right"/>
 
 ---
 
 ## 🛠️ My Skills & Technologies
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,php,python,mysql,git,vscode" />
+</p>
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=lua,js,html,css,python" />
-
-### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,mysql" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-Developer-0048CE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QBCore-Framework-0080FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESX-Framework-0055CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NUI-Development-111111?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🎮 FiveM Development
 
-<div align="center">
+I love creating resources that improve the FiveM gaming experience.
 
-<img src="https://img.shields.io/badge/QBCore-Supported-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESX-Supported-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Standalone-Supported-red?style=for-the-badge" />
+- 🔹 Custom FiveM Scripts
+- 🔹 QBCore Resources
+- 🔹 ESX Resources
+- 🔹 Advanced NUI Interfaces
+- 🔹 Custom HUD Systems
+- 🔹 Discord Bots & Integrations
+- 🔹 Server Optimization & Development
 
-</div>
-
-I develop and work with:
-
-- Custom FiveM Scripts.
-- Advanced UI Systems.
-- Job & Gang Systems.
-- Police & EMS Systems.
-- Administration Systems.
-- Inventory & Shops.
-- Discord Integrations.
-- Server Optimization.
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
+</p>
 
 ---
 
-## 📦 My Projects
+## 📦 My Scripts & Releases
 
-I share my FiveM resources and projects with the community.
-
-| Project | Description |
-|---|---|
-| FiveM Scripts | Custom FiveM resources |
-| QBCore Resources | QBCore development |
-| ESX Resources | ESX development |
-| Standalone Scripts | Framework-independent scripts |
-| Discord Projects | Discord bots and integrations |
-
-**Explore my repositories:**
-
-[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-red?style=for-the-badge&logo=github)](https://github.com/zimo1212?tab=repositories)
+<p align="center">
+  <a href="https://github.com/zimo1212?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0048CE?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/WrxHDBZRw">
+    <img src="https://img.shields.io/badge/Get%20My%20Scripts-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zimo1212&show_icons=true&theme=tokyonight&hide_border=true&title_color=0080FF&icon_color=0080FF" />
+  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=zimo1212&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zimo1212&show_icons=true&theme=dark&title_color=ff3030&icon_color=ff3030&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimo1212&layout=compact&theme=dark&title_color=ff3030&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-
-<br><br>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=zimo1212&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimo1212&layout=compact&theme=tokyonight&hide_border=true&title_color=0080FF" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 My Contribution Graph
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zimo1212&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zimo1212/zimo1212/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 💬 My Developer Quote
 
-<div align="center">
-
-### Follow My Work & Join My Community
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/zimo1212)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg)
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/WrxHDBZRw)
-
-</div>
+<p align="center">
+  <i>"Great developers don't just write code, they create experiences."</i>
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect!
 
-### 🔴 BUILD • DEVELOP • CREATE ⚫
+<p align="center">
+  <a href="https://github.com/zimo1212">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://discord.gg/WrxHDBZRw">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
 
-**Thanks for visiting my profile!**
+<h3 align="center">💙 Thanks For Visiting My Profile!</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3030&height=100&section=footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0048CE,100:000000&height=120&section=footer" width="100%" />
+</p>
